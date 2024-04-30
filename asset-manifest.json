@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hr-visit-site/static/css/main.ecdd6ec9.css",
+    "main.js": "/hr-visit-site/static/js/main.3a173262.js",
+    "static/js/453.26461dd8.chunk.js": "/hr-visit-site/static/js/453.26461dd8.chunk.js",
+    "static/media/start_page.png": "/hr-visit-site/static/media/start_page.96c3f0ab733cc7836891.png",
+    "static/media/PTSerif-Italic.ttf": "/hr-visit-site/static/media/PTSerif-Italic.d90ee47f324014fc2bae.ttf",
+    "static/media/PTSerif-Regular.ttf": "/hr-visit-site/static/media/PTSerif-Regular.6271ca9bf4c029802fc0.ttf",
+    "static/media/Montserrat-Italic.ttf": "/hr-visit-site/static/media/Montserrat-Italic.f4a742d68090a0bfc33f.ttf",
+    "static/media/Montserrat-Bold.ttf": "/hr-visit-site/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Medium.ttf": "/hr-visit-site/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Light.ttf": "/hr-visit-site/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
+    "static/media/Montserrat-Regular.ttf": "/hr-visit-site/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/PTSerif-Bold.ttf": "/hr-visit-site/static/media/PTSerif-Bold.baec85e607f452497274.ttf",
+    "static/media/PTSerif-BoldItalic.ttf": "/hr-visit-site/static/media/PTSerif-BoldItalic.318ae97b9a42b7a6d6ba.ttf",
+    "static/media/AustinCyr-SemiboldItalic.woff": "/hr-visit-site/static/media/AustinCyr-SemiboldItalic.921a609d51bf7cc85b6d.woff",
+    "static/media/AustinCyr-BoldItalic.woff": "/hr-visit-site/static/media/AustinCyr-BoldItalic.eb5f9235c089d4ed2da6.woff",
+    "static/media/AustinCyr-MediumItalic.woff": "/hr-visit-site/static/media/AustinCyr-MediumItalic.3c89d4ba37db874002a1.woff",
+    "static/media/AustinCyr-Bold.woff": "/hr-visit-site/static/media/AustinCyr-Bold.7ef58a7255b7dcad50a8.woff",
+    "static/media/AustinCyr-Extrabold.woff": "/hr-visit-site/static/media/AustinCyr-Extrabold.3deddf2da643502140ff.woff",
+    "static/media/AustinCyr-Semibold.woff": "/hr-visit-site/static/media/AustinCyr-Semibold.46bc75fc7f181196b5b9.woff",
+    "static/media/AustinCyr-Medium.woff": "/hr-visit-site/static/media/AustinCyr-Medium.0aceb2a265f3e30ee5be.woff",
+    "index.html": "/hr-visit-site/index.html",
+    "static/media/Line.svg": "/hr-visit-site/static/media/Line.fc5a29164853477d4a575cced5f5f694.svg",
+    "main.ecdd6ec9.css.map": "/hr-visit-site/static/css/main.ecdd6ec9.css.map",
+    "main.3a173262.js.map": "/hr-visit-site/static/js/main.3a173262.js.map",
+    "453.26461dd8.chunk.js.map": "/hr-visit-site/static/js/453.26461dd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecdd6ec9.css",
+    "static/js/main.3a173262.js"
+  ]
+}
