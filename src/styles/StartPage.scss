@@ -14,8 +14,7 @@
 .image__wrapper {
     max-width: 400px;
     height: 500px;
-    // background: url("../img/start_page.png") no-repeat;
-    // background-size: contain;
+
 
     img {
         width: 100%;
@@ -34,6 +33,7 @@
 .owner__name {
     text-align: center;
     font-family: "PTSerif-Regular";
+    color: rgba(85, 61, 42, .95);
     font-size: 36px;
     letter-spacing: 7px;
 }
